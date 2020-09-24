@@ -32,7 +32,7 @@ If you don't have yet any cryptocurrency you can get it easily. You can do it wi
 3. Buy your first chunk of cryptocurrency following the first login assistant. We recommend to start with Tether USDT. You will be able to pay via bank transfer, credit card and many other payment methods.
 ![Buy cryptocurrency with binance](assets/img/1_4.png)
 
-From now on this guide, we will assume you are operating with Tether USDT and binance.
+From now on, this guide we will assume you are operating with Tether USDT and binance.
 
 ### Move your currency to nimbus 
 

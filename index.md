@@ -1,11 +1,15 @@
-![Nimbus logo](assets/img/nimbus_log.png)
+![Nimbus logo](assets/img/nimbus_logo.png)
 
 # The easiest guide to start with  [nimbusplatform.io](https://app.nimbusplatform.io/sign-up) and get daily returns
-This guide shows you en few easy steps on how to start investing cryptocurrency in nimbus platform. Are the basic instructions from our investment team to new users, put together and made now accessible for everybody.
+This guide shows you in **few easy steps** how to [create your nimbus platform account](https://app.nimbusplatform.io/sign-up) and how to start investing on cryptocurrency and get daily returns.
+
+Here are the basic instructions from our investment team to new users, put together and made now **accessible for everybody**.
 
 ## Whats nimbus platform
 
-Nimbus is a cryptocurrency investing platform. Thanks to Advanced IA bots ensures the profitability of our deposits giving back awesome good returns. You can see it here from the official documentation (also note the early withdrawal fees).
+Nimbus is a cryptocurrency investing platform. Thanks to **Advanced IA bots** ensures the profitability of our deposits giving back awesome good returns.
+
+You can see it here from the official documentation (also note the early withdrawal fees).
 
 ![Deposits daily and monthly returns nimbus platform](assets/img/intro.png)
 
@@ -15,7 +19,7 @@ Nimbus uses 3 different cryptocurrencies: Bitcoin, Etherum and Tether(USDT). USD
 
 ### Start creating your nimbus account
 
-That's so easy and free. Just go to [sing-up at nimbusplatform.io](https://app.nimbusplatform.io/sign-up). You can use this direct link [here](https://app.nimbusplatform.io/sign-up)
+That's so **easy and free**. Just go to [sing-up at nimbusplatform.io](https://app.nimbusplatform.io/sign-up). You can use this direct link [here](https://app.nimbusplatform.io/sign-up)
 
 ### Get your cryptocurrency
 

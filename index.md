@@ -1,4 +1,12 @@
-## Welcome to GitHub Pages
+# How to start investing into nimbus platform
+
+## Whats nimbus platform
+
+Is a cryptocurrency investing platform using trading bots to ensure profitability of your deposits giveing back awesome good returnments.
+
+## How to start
+
+
 
 You can use the [editor on GitHub](https://github.com/juliquiron/start-with-nimbus/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 

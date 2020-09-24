@@ -2,13 +2,43 @@
 
 ## Whats nimbus platform
 
-Is a cryptocurrency investing platform using trading bots to ensure profitability of your deposits giveing back awesome good returnments.
+Whant to start geting a return from saving your money in cryptocurrency? Then, nimbus platformis for you!
+
+Nimbus is a cryptocurrency investing platform using trading bots to ensure profitability of your deposits giveing back awesome good returnments. Nimbus uses 3 different cryptocurrencies: Bitcoin, Etherum and Tether(USDT). USDT is special interesting as long it have a fixed value in relation to Dollar.
 
 ## How to start
 
+### Start creating your nimbus account
+
+That's so easy, just go to [nimbus platform](https://x.org). It's free. You can use this referal link [here](https://x.org)
+
+### Get your cryptocurrency
+
+If you don't have yet any cryptocurrency you can get it easily. You can do it with multiple platforms, our recomendations is to use [binance](https://binance.com) because is easy and cheap.
+
+1. Create your binance account. You can do it for free by clicking [here](https://accounts.binance.com/es/register)
+2. Buy your first chunck of cryptocurrency. We recomend to start with Tether USDT
+
+In this guide we will asume you are operating with Tether USDT and binance.
+
+### Move your currency to nimbus 
+
+Before making a diposit we should place our cryptocurrency in the nimbus platform.
+
+1. Go to your nimbus account and click on totals summary in the very top of the page
+2. Select Recieve and then in the dropdown select Tether USDT
+3. Copy your wallet address labeled 'Your USDT Wallet:'. It starts with 0x...
+4. In binance go to Wallet -> Spot and click on 'Withdraw' in the Tether USDT row
+5. Paste your nimbus wallet addres into the Recipient's USDT Address
+6. Select ERC20 network and type your ammount
+7. Just click submit and wait to have your cryptocurrency in nimbus.
+
+### It's the moment, make your first diposit!
 
 
-You can use the [editor on GitHub](https://github.com/juliquiron/start-with-nimbus/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+
+
+**Disclamer**: This page shares a personal experience using this platform and wants to encourage everybody to use it because it have been so beneficial for the ones ho did so. Do it in your own responsability. What's written here has no warranty and you may reproduce it at your own risk.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 

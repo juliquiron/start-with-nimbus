@@ -1,4 +1,4 @@
-![Nimbus logo](assets/img/nimbus_log.svg)
+![Nimbus logo](assets/img/nimbus_log.png)
 
 # The esiest guide to start with  [nimbusplatform.io](https://app.nimbusplatform.io/sign-up)
 This guide shows you en few easy steps how to start investing cryptocurrency in nimbus platform. Are the basic instructions from our investment team to new users, putted together and made now accessible for everybody.

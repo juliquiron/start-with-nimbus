@@ -11,7 +11,7 @@ Nimbus is a cryptocurrency investing platform using trading bots to ensure profi
 
 ### Start creating your nimbus account
 
-That's so easy, just go to [nimbus platform](https://x.org). It's free. You can use this referal link [here](https://x.org)
+That's so easy, and free. Just go to [sing up at nimbusplatform.io](https://app.nimbusplatform.io/sign-up). You can the this direct link [here](https://app.nimbusplatform.io/sign-up)
 
 ### Get your cryptocurrency
 

@@ -1,38 +1,38 @@
 ![Nimbus logo](assets/img/nimbus_log.png)
 
-# The esiest guide to start with  [nimbusplatform.io](https://app.nimbusplatform.io/sign-up)
-This guide shows you en few easy steps how to start investing cryptocurrency in nimbus platform. Are the basic instructions from our investment team to new users, putted together and made now accessible for everybody.
+# The easiest guide to start with  [nimbusplatform.io](https://app.nimbusplatform.io/sign-up) and get daily returns
+This guide shows you en few easy steps on how to start investing cryptocurrency in nimbus platform. Are the basic instructions from our investment team to new users, put together and made now accessible for everybody.
 
 ## Whats nimbus platform
 
-Nimbus is a cryptocurrency investing platform. Nimbus uses trade bots to ensure profitability of our deposits giveing back awesome good returnments. You can see it here from the official documentation (also note the early withdraw fees).
+Nimbus is a cryptocurrency investing platform. Thanks to Advanced IA bots ensures the profitability of our deposits giving back awesome good returns. You can see it here from the official documentation (also note the early withdrawal fees).
 
-![Diposits daily and monthly returns nimbus platform](assets/img/intro.png)
+![Deposits daily and monthly returns nimbus platform](assets/img/intro.png)
 
-Nimbus uses 3 different cryptocurrencies: Bitcoin, Etherum and Tether(USDT). USDT is special interesting for new users as long it have a fixed value in relation to Dollar.
+Nimbus uses 3 different cryptocurrencies: Bitcoin, Etherum and Tether(USDT). USDT is specially interesting for new users as long as it has a fixed value to Dollar.
 
 ## How to start
 
 ### Start creating your nimbus account
 
-That's so easy, and free. Just go to [sing up at nimbusplatform.io](https://app.nimbusplatform.io/sign-up). You can the this direct link [here](https://app.nimbusplatform.io/sign-up)
+That's so easy and free. Just go to [sing-up at nimbusplatform.io](https://app.nimbusplatform.io/sign-up). You can use this direct link [here](https://app.nimbusplatform.io/sign-up)
 
 ### Get your cryptocurrency
 
-If you don't have yet any cryptocurrency you can get it easily. You can do it with multiple platforms, our recomendations is to use [binance](https://binance.com) because is easy and cheap.
+If you don't have yet any cryptocurrency you can get it easily. You can do it with multiple platforms, our recommendation is to use [binance](https://binance.com) because is easy and cheap.
 
 1. Create your binance account. You can do it for free by clicking [here](https://accounts.binance.com/register)
 ![Login binance](assets/img/1_11.png)
 2. Authenticate yourself following all the steps
 ![Authenticate at binance](assets/img/1_3.png)
-3. Buy your first chunck of cryptocurrency following the first login asistant. We recomend to start with Tether USDT. You will be able to pay via bank transfer, credit card and many other payment methods.
+3. Buy your first chunk of cryptocurrency following the first login assistant. We recommend to start with Tether USDT. You will be able to pay via bank transfer, credit card and many other payment methods.
 ![Buy cryptocurrency with binance](assets/img/1_4.png)
 
-From now on this guide we will asume you are operating with Tether USDT and binance.
+From now on this guide, we will assume you are operating with Tether USDT and binance.
 
 ### Move your currency to nimbus 
 
-Before making your first diposit you should place the cryptocurrency in the nimbus platform.
+Before making your first deposit you should place the cryptocurrency in the nimbus platform.
 
 1. Go to your nimbus account and click on totals summary in the very top of the page
 2. Select Recieve and then in the dropdown select Tether USDT
@@ -40,24 +40,24 @@ Before making your first diposit you should place the cryptocurrency in the nimb
 ![Get your cryptocurrency walled id in nimbus platform](assets/img/2_1.png)
 4. In binance go to Wallet -> Spot and click on 'Withdraw' in the Tether USDT row
 ![Withdraw your cryptocurrency from binance to nimbus platform](assets/img/2_4.png)
-5. Paste your nimbus wallet addres into the Recipient's USDT Address
-6. Select ERC20 network and type your ammount
+5. Paste your nimbus wallet address into the Recipient's USDT Address
+6. Select ERC20 network and type your amount
 ![Withdraw your cryptocurrency from binance to nimbus platform](assets/img/2_6.png)
 7. Just click submit and wait to have your cryptocurrency in nimbus.
 
-### It's the moment, make your first diposit!
+### It's the moment, make your first deposit!
 
 Thats so easy :)
 1. Go to your nimbus dashboard and click on the second icon in the left bar 'Marketplace'.
 2. Click 'Get Instal' in the **Avalon app**.
-3. Select USDT and introduce the amount you want to diposit
+3. Select USDT and introduce the amount you want to deposit
 ![Make your nimbus platform deposit with Avalon app](assets/img/3_1.png)
 4. Click next
 5. Click done
-6. ... wait an see the returns caming into your acount!
+6. ... wait an see the returns coming into your account!
 
 
-**Disclamer**: This page shares a personal experience using this platform and wants to encourage everybody to use it because it have been so beneficial for the ones ho did so. Do it in your own responsability. What's written here has no warranty and you may reproduce it at your own risk.
+**Disclaimer**: This page shares a personal experience using this platform and wants to encourage everybody to use it because it has been so beneficial for the ones ho did so. Do it in your own responsibility. What's written here has no warranty and you may reproduce it at your own risk.
 
-We hope this guide have been useful to you. You can also find other resources on the internet.
+We hope this guide has been useful to you. You can also find other resources on the internet and specially youtube.
 

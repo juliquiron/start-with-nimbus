@@ -22,8 +22,7 @@ That's so easy, and free. Just go to [sing up at nimbusplatform.io](https://app.
 If you don't have yet any cryptocurrency you can get it easily. You can do it with multiple platforms, our recomendations is to use [binance](https://binance.com) because is easy and cheap.
 
 1. Create your binance account. You can do it for free by clicking [here](https://accounts.binance.com/register)
-![Login binance](assets/img/1_1.png)
-![Deposit cash at binance](assets/img/1_2.png)
+![Login binance](assets/img/1_11.png)
 2. Authenticate yourself following all the steps
 ![Authenticate at binance](assets/img/1_3.png)
 3. Buy your first chunck of cryptocurrency following the first login asistant. We recomend to start with Tether USDT. You will be able to pay via bank transfer, credit card and many other payment methods.

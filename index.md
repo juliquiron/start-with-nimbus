@@ -1,4 +1,5 @@
-# How to start investing into nimbus platform
+# The guide to start easily with nimbus for newbies
+This guide puts together the basic indications from our investment team for new users that want to start with nimbus.
 
 ## Whats nimbus platform
 
@@ -19,7 +20,7 @@ If you don't have yet any cryptocurrency you can get it easily. You can do it wi
 1. Create your binance account. You can do it for free by clicking [here](https://accounts.binance.com/es/register)
 2. Buy your first chunck of cryptocurrency. We recomend to start with Tether USDT
 
-In this guide we will asume you are operating with Tether USDT and binance.
+From now the guide we will asume you are operating with Tether USDT and binance.
 
 ### Move your currency to nimbus 
 
@@ -35,41 +36,14 @@ Before making a diposit we should place our cryptocurrency in the nimbus platfor
 
 ### It's the moment, make your first diposit!
 
-
+Thats so easy :)
+1. Go to your nimbus dashboard and click on the second icon in the left bar 'Marketplace'.
+2. Click 'Get Instal' in the **Avalon app**.
+3. Select USDT and introduce the amount you want to diposit
+4. Click next
+5. Click done
+6. ... wait an see the returns caming into your acount!
 
 
 **Disclamer**: This page shares a personal experience using this platform and wants to encourage everybody to use it because it have been so beneficial for the ones ho did so. Do it in your own responsability. What's written here has no warranty and you may reproduce it at your own risk.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/juliquiron/start-with-nimbus/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

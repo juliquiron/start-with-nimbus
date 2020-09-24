@@ -1,7 +1,9 @@
-## **The easiest guide to start with  [nimbusplatform.io](https://app.nimbusplatform.io/sign-up) and get daily returns**
+## **The easiest beginner guide to start with  [nimbusplatform.io](https://app.nimbusplatform.io/sign-up) and get daily returns**
 This guide shows you in **few easy steps** how to [create your nimbus platform account](https://app.nimbusplatform.io/sign-up) and how to start investing on cryptocurrency and get daily returns.
 
 Here are the basic instructions from our investment team to new users, put together and made now **accessible for everybody**.
+
+*[Start here creating your free account](https://app.nimbusplatform.io/sign-up)*
 
 ## Whats nimbus platform
 

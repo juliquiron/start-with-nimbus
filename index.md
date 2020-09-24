@@ -1,6 +1,4 @@
-![Nimbus logo](assets/img/nimbus_logo.png)
-
-# The easiest guide to start with  [nimbusplatform.io](https://app.nimbusplatform.io/sign-up) and get daily returns
+# **The easiest guide to start with  [nimbusplatform.io](https://app.nimbusplatform.io/sign-up)** and get daily returns
 This guide shows you in **few easy steps** how to [create your nimbus platform account](https://app.nimbusplatform.io/sign-up) and how to start investing on cryptocurrency and get daily returns.
 
 Here are the basic instructions from our investment team to new users, put together and made now **accessible for everybody**.
@@ -58,7 +56,7 @@ Thats so easy :)
 ![Make your nimbus platform deposit with Avalon app](assets/img/3_1.png)
 4. Click next
 5. Click done
-6. ... wait an see the returns coming into your account!
+6. ... **wait and see the returns coming into your account!**
 
 
 **Disclaimer**: This page shares a personal experience using this platform and wants to encourage everybody to use it because it has been so beneficial for the ones ho did so. Do it in your own responsibility. What's written here has no warranty and you may reproduce it at your own risk.

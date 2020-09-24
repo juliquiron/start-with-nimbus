@@ -1,0 +1,11 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body {font-size: 17px; line-height: 1.8}
+#header {display: none;}
+#title p {display: none;}
+hr {display: none;}
+.credits {display: none;}
+h1, h2, h3 {margin-top: 3rem;}

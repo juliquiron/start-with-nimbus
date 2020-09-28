@@ -11,7 +11,7 @@ Here are the basic instructions from our investment team to new users, put toget
 
 Don't have any cryptocurrency yet? You can get it easily!. Otherwise jump to <a href="#move-your-currency-to-nimbus">move your currency to nimbus</a> section.
 
-You can do it with multiple platforms, our recommendation is to use [binance](https://binance.com) because is easy and cheap.
+You can buy cryptos with multiple platforms, our recommendation is to use [binance](https://binance.com) because is easy and cheap.
 
 1. Create your binance account. You can do it for free by clicking [here](https://accounts.binance.com/register)
 ![Login binance](assets/img/1_11.webp)

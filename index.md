@@ -3,7 +3,7 @@ This guide shows you in **few easy steps** how to [create your nimbus platform a
 
 Here are the basic instructions from our investment team to new users, put together and made now **accessible for everybody**.
 
-*[Start here creating your free account](https://app.nimbusplatform.io/ref/5V5T0)*
+<em><a href="https://app.nimbusplatform.io/ref/5V5T0" target="_blank">Start here creating your free account</a></em>
 
 ... and came back here to follow the instructions to start investing.
 

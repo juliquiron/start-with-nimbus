@@ -5,7 +5,7 @@ Here are the basic instructions from our investment team to new users, put toget
 
 <em><a href="https://app.nimbusplatform.io/ref/5V5T0" target="_blank">Start here creating your free account</a></em>
 
-... and came back here to follow the instructions to start investing.
+... **and came back here** to follow the instructions to start investing.
 
 ### Get your cryptocurrency
 

@@ -7,8 +7,6 @@ Here are the basic instructions from our investment team to new users, put toget
 
 ... and came back here to follow the instructions to start investing.
 
-## How to start
-
 ### Get your cryptocurrency
 
 If you don't have yet any cryptocurrency you can get it easily. You can do it with multiple platforms, our recommendation is to use [binance](https://binance.com) because is easy and cheap.

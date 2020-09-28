@@ -5,21 +5,9 @@ Here are the basic instructions from our investment team to new users, put toget
 
 *[Start here creating your free account](https://app.nimbusplatform.io/ref/5V5T0)*
 
-## Whats nimbus platform
-
-Nimbus is a cryptocurrency investing platform. Thanks to **Advanced IA bots** ensures the profitability of our deposits giving back awesome good returns.
-
-You can see it here from the official documentation (also note the early withdrawal fees).
-
-![Deposits daily and monthly returns nimbus platform](assets/img/intro.webp)
-
-Nimbus uses 3 different cryptocurrencies: Bitcoin, Etherum and Tether(USDT). USDT is specially interesting for new users as long as it has a fixed value to Dollar.
+... and came back here to follow the instructions to start investing.
 
 ## How to start
-
-### Start creating your nimbus account
-
-That's so **easy and free**. Just go to [sign-up at nimbusplatform.io](https://app.nimbusplatform.io/ref/5V5T0). You can use this direct link [here](https://app.nimbusplatform.io/ref/5V5T0)
 
 ### Get your cryptocurrency
 

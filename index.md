@@ -60,6 +60,8 @@ Thats so easy :)
 5. Click done
 6. ... **wait and see the returns coming into your account!**
 
+### Join the community
+Do you still have questions? Do you want to get connected to other nimbus investors like you? Join our [community on telegram](https://t.me/nimbusnewbies)!
 
 **Disclaimer**: This page shares a personal experience using this platform and wants to encourage everybody to use it because it has been so beneficial for the ones ho did so. Do it in your own responsibility. What's written here has no warranty and you may reproduce it at your own risk.
 

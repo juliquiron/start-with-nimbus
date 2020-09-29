@@ -1,5 +1,5 @@
-## **The easiest beginner guide to start with  [nimbusplatform.io](https://app.nimbusplatform.io/ref/5V5T0) and get daily returns**
-This guide shows you in **few easy steps** how to [create your nimbus platform account](https://app.nimbusplatform.io/ref/5V5T0) and how to start investing on cryptocurrency and get daily returns.
+## **The easiest beginner guide to start with <a href="https://app.nimbusplatform.io/ref/5V5T0" target="_blank">nimbusplatform.io</a> and get daily returns**
+This guide shows you in **few easy steps** how to <a href="https://app.nimbusplatform.io/ref/5V5T0" target="_blank">create your nimbus platform account</a> and how to start investing on cryptocurrency and get daily returns.
 
 Here are the basic instructions from our investment team to new users, put together and made now **accessible for everybody**.
 
